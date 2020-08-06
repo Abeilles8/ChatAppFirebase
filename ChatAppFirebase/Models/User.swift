@@ -2,8 +2,8 @@
 //  User.swift
 //  ChatAppFirebase
 //
-//  Created by 植松佑太 on 2020/05/12.
-//  Copyright © 2020 植松佑太. All rights reserved.
+//  Created by Yuta Uematsu on 2020/05/12.
+//  Copyright © 2020 Yuta Uematsu. All rights reserved.
 //
 
 import Foundation
